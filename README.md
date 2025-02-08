@@ -138,9 +138,6 @@ model Click {
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-
-For support, email support@yourdomain.com or open an issue in the GitHub repository.
 
 ## Acknowledgments
 
