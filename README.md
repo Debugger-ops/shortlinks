@@ -9,7 +9,7 @@ A modern URL shortening service built with Next.js, featuring a clean UI and rob
 - Click analytics and tracking
 - User authentication and management
 - API endpoints for programmatic access
-- Responsive design for all devices
+- Responsive design for all devices - under progress
 - Rate limiting to prevent abuse
 - URL validation and sanitization
 
@@ -27,8 +27,7 @@ A modern URL shortening service built with Next.js, featuring a clean UI and rob
 ### Prerequisites
 
 - Node.js 18.0 or later
-- PostgreSQL database
-- pnpm (recommended) or npm
+
 
 ### Installation
 
@@ -59,9 +58,6 @@ pnpm prisma migrate dev
 ```bash
 pnpm dev
 ```
-
-## Project Structure
-
 
 ## API Routes
 
